@@ -102,3 +102,19 @@ div{
     flex-direction: row; 
     justify-content: space-evenly;
 }
+
+#lente001 {
+transform: rotate(350deg);
+
+}
+
+#lente002 {
+        width: 400px;
+        height: 200px;
+        transition: height 2s, width 1s;       
+     }
+
+#lente002 :hover {
+        height: 100px; width: 200px;
+     }
+     

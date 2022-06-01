@@ -69,10 +69,10 @@ p{
     grid-row-gap: 15px;
     justify-items: start;
     justify-content: space-between;
-
+    background-image: linear-gradient(to bottom, rgb(250, 217, 255) , rgb(255, 246, 254));
 
 }
-
+   
 footer{
     color: grey;
     font-family: Arial, Helvetica, sans-serif ;

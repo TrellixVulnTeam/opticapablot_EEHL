@@ -68,8 +68,8 @@ p{
     grid-column-gap: 10px;
     grid-row-gap: 15px;
     justify-items: start;
-    justify-content: space-between;
-    background-image: linear-gradient(to bottom, rgb(250, 217, 255) , rgb(255, 246, 254));
+    justify-content: normal;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255) , rgb(255, 246, 254));
 
 }
    
@@ -81,10 +81,10 @@ footer{
 ul {
     color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
-    width: 200px;
+    width: 300px;
     border: 1px solid rgb(144, 10, 181);
-    padding: 50px;
-    margin: 20px;
+    padding: 20px;
+    margin: 10px;
 }
 
 a{
@@ -104,17 +104,68 @@ div{
 }
 
 #lente001 {
-transform: rotate(350deg);
+    width: 200px;
+    height: 200px;
+    transform: rotate(350deg);
+
 
 }
 
 #lente002 {
         width: 400px;
         height: 200px;
-        transition: height 2s, width 1s;       
+        transition: height 2s, width 1s;
+        position: relative;       
      }
 
 #lente002 :hover {
         height: 100px; width: 200px;
      }
      
+     .social {
+        border-radius: 3px;
+        box-shadow: 0 1px 0 #e9e9e9 inset;
+        background: #f3f3f3;
+        border-color: #d1d1d1 #e7e7e7 #e4e4e4;
+        border-radius: 3px;
+        border-style: solid;
+        border-width: 1px;
+        box-shadow: 0 1px 0 #e9e9e9 inset;
+        float: left;
+        list-style: none;
+        padding: 15px 10px;
+        position: relative;
+        text-align: center;
+        margin: 20px;
+      }
+      
+      .social li:first-child {
+        margin-top: 0
+      }
+      
+      .social li {
+        margin-top: 10px
+      }
+      
+      .social li a {
+        display: block;
+        background: #999999;
+        color: #efefef;
+        border-radius: 15px;
+        text-decoration: none;
+        line-height: 30px;
+        width: 30px;
+        font-size: 18px;
+      }
+      
+      .social a.tw:hover {
+        background: #00acee
+      }
+      
+      .social a.fb:hover {
+        background: #3b5998
+      }
+      
+      .social a.gp:hover {
+        background: #dd4b39
+      }

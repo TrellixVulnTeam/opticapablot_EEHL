@@ -1,0 +1,25 @@
+body {
+  background-color: aliceblue; }
+
+header .nav {
+  width: 80%;
+  background-color: #f8a7ff;
+  margin: 10px auto; }
+  header .nav .menu {
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; }
+    header .nav .menu .boton {
+      padding: 10px;
+      margin: 10px; }
+      header .nav .menu .boton:hover {
+        background-color: #9301e2;
+        border-radius: 20%; }
+      header .nav .menu .boton a {
+        text-decoration: none;
+        color: white; }
+        header .nav .menu .boton a:hover {
+          color: fuchsia;
+          font-weight: bold; }

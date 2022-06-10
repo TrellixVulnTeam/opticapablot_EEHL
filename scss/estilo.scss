@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+}
+header{
+    .nav{
+        width: 80%;
+        background-color: rgb(248, 167, 255);
+        margin:10px auto;
+        .menu{
+            list-style-type: none;
+            padding:10px;
+            display:flex;
+            flex-direction: row;
+            justify-content: center;
+            .boton{
+                padding:10px;
+                margin:10px;
+                &:hover{
+                    background-color: rgb(147, 1, 226);
+                    border-radius: 20%;
+                }
+                a{
+                    text-decoration: none;
+                    color: white;
+                    &:hover{
+                        color:fuchsia;
+                        font-weight: bold;
+                        
+
+                    }
+                }
+            }
+        }
+    }
+}

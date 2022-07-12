@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://pablo-troncoso.github.io/opticapablot/index.html</title>
+  <link>https://pablo-troncoso.github.io/opticapablot/index.html</link>
+
+<item>
+     <link>https://pablo-troncoso.github.io/opticapablot/index.html</link>
+     <title>Gran Óptica Gran!</title>
+     <description>Gran Óptica Gran de Lentes ópticos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pablo-troncoso.github.io/opticapablot/modelos.html</link>
+     <title>Gran Óptica Gran! Modelos de Lentes</title>
+     <description>Gran Óptica Gran Modelos de Lentes ópticos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pablo-troncoso.github.io/opticapablot/cristales.html</link>
+     <title>Gran Óptica Gran! Cristales de Lentes</title>
+     <description>Gran Óptica Gran Cristales ópticos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pablo-troncoso.github.io/opticapablot/filtros.html</link>
+     <title>Gran Óptica Gran! Filtros de Lentes</title>
+     <description>Gran Óptica Gran Filtros ópticos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://pablo-troncoso.github.io/opticapablot/contacto.html</link>
+     <title>Gran Óptica Gran! Contáctanos</title>
+     <description>Gran Óptica Gran Contacto para Lentes ópticos</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
